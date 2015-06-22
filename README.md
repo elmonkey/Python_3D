@@ -1,2 +1,2 @@
 # 3Dpython
-Plot/Visualize a distance or point cloud array using Python's matplotlib.
+Manipulate, plot/visualize a distance or point cloud array using PCL and Matplotlib in Python
